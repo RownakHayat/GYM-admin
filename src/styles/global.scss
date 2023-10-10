@@ -1,6 +1,19 @@
+
+$primary-color: #edfb13;
+$nav-bg: #505505;
+$more: #1f1e02;
+$dark-more: #0f020b;
+$text-color: #f6f7ed;
+$soft-color: #ddd;
+$soft-bg:#868524;
+$bg-color:#fff68f to #FBD808;
+
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: "Inter", sans-serif;
+}
+.menuContainer{
+    border-right: 1px solid #505505;
 }
