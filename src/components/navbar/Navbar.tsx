@@ -20,7 +20,7 @@ const Navbar = () => {
         <FaExpand />
         <div className="notice">
         <MdNotificationsNone />
-        <span className='bg-red-500 rounded-full w-4 h-2 p-1 relative'>1</span>
+        <span className='bg-red-500 rounded-full absolute top-1'>1</span>
         </div>
         <div className="user">
           {/* <img src="" alt="" className="w-8 h-8" /> */}
