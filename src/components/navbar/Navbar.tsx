@@ -27,7 +27,6 @@ const Navbar = () => {
           <BiUser />
           <p>User</p>
         </div>
-        
         <LuSettings />
       </div>
       

@@ -27,3 +27,12 @@ $bg-color:#fff68f to #FBD808;
     }
     
 }
+.footer span{
+    &:first-child{
+        color: #edfb13;
+    }
+    &:last-child{
+        font-size: 14px;
+    }
+   
+}
