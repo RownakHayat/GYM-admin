@@ -24,9 +24,18 @@ $bg-color:#fff68f to #FBD808;
         border-radius: 50%;
         text-align: center;
         padding: 2px;
-    }
+    }  
+}
+a.list-item {
+    margin-left: .5rem;
+    display: flex;
+    gap: 10px;
+    font-size: 16px;
+    width: 100%;
+    padding: 5px
     
 }
+<<<<<<< HEAD
 .footer span{
     &:first-child{
         color: #edfb13;
@@ -35,4 +44,17 @@ $bg-color:#fff68f to #FBD808;
         font-size: 14px;
     }
    
+=======
+a.img{
+    width: 15px;
+}
+.items:hover{
+    background-color:#505505;
+    width: 100%;
+}
+// Home Page
+.box{
+    border-radius: 5px;
+    border: 1px solid #505505;
+>>>>>>> 5a39e1147869b6844feceb507e9a378dad8c9bdb
 }

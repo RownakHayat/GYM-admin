@@ -13,7 +13,7 @@ const Layout = ()=>{
     <div className="main bg-[#1f1e02]">
       <Navbar />
       <div className="container flex text-[#f6f7ed]">
-        <div className="menuContainer w-28 py-4 px-6">
+        <div className="menuContainer w-52">
           <Manu />
         </div>
         <div className="contentContainer w-100% px-6 py-12">
