@@ -11,6 +11,7 @@ import "./styles/global.scss"
 const Layout = ()=>{
   return (
     <div className="main bg-[#1f1e02]">
+      <Login />
       <Navbar />
       <div className="container flex text-[#f6f7ed]">
         <div className="menuContainer w-52">
